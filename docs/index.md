@@ -2,4 +2,4 @@
 
 
 ## Lessons
-[Text TOP 00](/pages/textTOP-00)
+[Text TOP 00](pages/textTOP-00)
