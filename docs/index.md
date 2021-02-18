@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Text TOP
+layout: default
+title: Welcome
 ---
 
 # Welcome to the TouchDesigner Lessons Explorer
