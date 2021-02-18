@@ -1,5 +1,5 @@
 ---
-layout: content-page
+layout: page
 title: Text TOP
 ---
 
