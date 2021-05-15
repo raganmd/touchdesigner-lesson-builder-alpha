@@ -7,4 +7,4 @@ title: Text TOP
 
 Here's a quick overview of the text TOP
 
-[Here's a link](x=10, y=11)
+[Here's a link](#something)
